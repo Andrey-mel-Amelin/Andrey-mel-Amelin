@@ -2,7 +2,7 @@
 
 ## 💊 And which one will you choose?
 
-<iframe src="https://gifer.com/embed/1Dyk" width=480 height=264.490 frameBorder="0" allowFullScreen/>
+<img src="https://gifer.com/embed/1Dyk.gif" width=480 height=264.490 alt="Matrix"/>
 
 ## 👶 About Me:
 
@@ -12,19 +12,19 @@
 
 ## 🛠 My technologies and tools:
 
-<img src="https://icons8.com/icon/123603/react-native" height="30" alt="React"/>&nbsp;
-<img src="https://icons8.com/icon/PXTY4q2Sq2lG/javascript" height="30" alt="JavaScript"/>&nbsp;
-<img src="https://icons8.com/icon/20909/html-5" height="30" alt="Html"/>&nbsp;
-<img src="https://icons8.com/icon/21278/css3" height="30" alt="CSS"/>&nbsp;
-<img src="https://icons8.com/icon/QBqFNfPPB2Kx/sass" height="30" alt="SASS"/>&nbsp;
-<img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" height="30" alt="NodeJS"/>&nbsp;
-<img src="https://icons8.com/icon/12599/github" height="30" alt="GitHub"/>&nbsp;
+<img src="https://img.icons8.com/color/48/null/react-native.png" height="30" alt="React"/>&nbsp;
+<img src="https://img.icons8.com/color/48/null/javascript--v1.png" height="30" alt="JavaScript"/>&nbsp;
+<img src="https://img.icons8.com/color/48/null/html-5--v1.png" height="30" alt="Html"/>&nbsp;
+<img src="https://img.icons8.com/color/48/null/css3.png" height="30" alt="CSS"/>&nbsp;
+<img src="https://img.icons8.com/color/48/null/sass.png" height="30" alt="SASS"/>&nbsp;
+<img src="https://img.icons8.com/fluency/48/null/node-js.png" height="30" alt="NodeJS"/>&nbsp;
+<img src="https://img.icons8.com/ios-filled/50/null/github.png" height="30" alt="GitHub"/>&nbsp;
 
 
 ## 📚 I’m currently learning:
-<img src="https://icons8.com/icon/nCj4PvnCO0tZ/typescript" height="30" alt="TypeScript"/>
-<img src="https://icons8.com/icon/jD-fJzVguBmw/redux" height="30" alt="Redux"/>
+<img src="https://img.icons8.com/fluency/48/null/typescript--v2.png" height="30" alt="TypeScript"/>
+<img src="https://img.icons8.com/color/48/null/redux.png" height="30" alt="Redux"/>
 
 ## 📬 How to contact Me:
 
-<img src="https://icons8.com/icon/63306/telegram-app" height="30" alt="Telegram"></a href="https://t.me/mel_svk"></a></img>
+<img src="https://img.icons8.com/color/48/null/telegram-app--v1.png"" height="30" alt="Telegram"></a href="https://t.me/mel_svk"></a></img>
