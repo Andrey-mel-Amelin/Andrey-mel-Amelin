@@ -22,8 +22,8 @@
 
 ## 📚 I’m currently learning:
 
-<img src="https://img.icons8.com/fluency/48/null/typescript--v2.png" height="30" alt="TypeScript"/>
-<img src="https://img.icons8.com/color/48/null/redux.png" height="30" alt="Redux"/>
+<img src="https://img.icons8.com/fluency/48/null/typescript--v2.png" height="30" alt="TypeScript"/>&nbsp;
+<img src="https://img.icons8.com/color/48/null/redux.png" height="30" alt="Redux"/>&nbsp;
 
 ## 📬 How to contact Me:
 
