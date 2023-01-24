@@ -2,7 +2,7 @@
 
 ## 💊 And which one will you choose?
 
-<img src="https://gifer.com/embed/1Dyk.gif" width=480 height=264.490 alt="Matrix"/>
+<img src="https://i.gifer.com/4yD.gif" width=480 height=264.490 alt="Matrix"/>
 
 ## 👶 About Me:
 
@@ -27,4 +27,4 @@
 
 ## 📬 How to contact Me:
 
-<img src="https://img.icons8.com/color/48/null/telegram-app--v1.png" height="30" alt="Telegram"></a href="https://t.me/mel_svk"></a></img>
+<img src="https://img.icons8.com/color/48/null/telegram-app--v1.png" height="30" alt="Telegram"><a href="https://t.me/mel_svk"></a></img>
