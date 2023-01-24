@@ -9,6 +9,7 @@
 👨‍💻 I’m a front-end developer<br>
 🎧 I like listening to music<br>
 🍿 I like watching movies<br>
+<br>
 
 ## 🛠 My technologies and tools:
 
@@ -19,11 +20,13 @@
 <img src="https://img.icons8.com/color/48/null/sass.png" height="30" alt="SASS"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/null/node-js.png" height="30" alt="NodeJS"/>&nbsp;
 <img src="https://img.icons8.com/ios-filled/50/null/github.png" height="30" alt="GitHub"/>&nbsp;
+<br>
 
 ## 📚 I’m currently learning:
 
 <img src="https://img.icons8.com/fluency/48/null/typescript--v2.png" height="30" alt="TypeScript"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/redux.png" height="30" alt="Redux"/>&nbsp;
+<br>
 
 ## 📬 How to contact Me:
 
