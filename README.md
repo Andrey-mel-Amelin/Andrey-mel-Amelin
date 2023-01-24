@@ -6,8 +6,8 @@
 
 ## 👶 About Me:
 
-👨‍💻 I’m a front-end developer 
-🎧 I like listening to music 
+👨‍💻 I’m a front-end developer
+🎧 I like listening to music
 🍿 I like watching movies
 
 ## 🛠 My technologies and tools:
@@ -20,11 +20,11 @@
 <img src="https://img.icons8.com/fluency/48/null/node-js.png" height="30" alt="NodeJS"/>&nbsp;
 <img src="https://img.icons8.com/ios-filled/50/null/github.png" height="30" alt="GitHub"/>&nbsp;
 
-
 ## 📚 I’m currently learning:
+
 <img src="https://img.icons8.com/fluency/48/null/typescript--v2.png" height="30" alt="TypeScript"/>
 <img src="https://img.icons8.com/color/48/null/redux.png" height="30" alt="Redux"/>
 
 ## 📬 How to contact Me:
 
-<img src="https://img.icons8.com/color/48/null/telegram-app--v1.png"" height="30" alt="Telegram"></a href="https://t.me/mel_svk"></a></img>
+<img src="https://img.icons8.com/color/48/null/telegram-app--v1.png" height="30" alt="Telegram"></a href="https://t.me/mel_svk"></a></img>
