@@ -6,9 +6,9 @@
 
 ## 👶 About Me:
 
-👨‍💻 I’m a front-end developer
-🎧 I like listening to music
-🍿 I like watching movies
+👨‍💻 I’m a front-end developer<br>
+🎧 I like listening to music<br>
+🍿 I like watching movies<br>
 
 ## 🛠 My technologies and tools:
 
