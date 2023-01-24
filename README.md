@@ -2,7 +2,7 @@
 
 ## 💊 And which one will you choose?
 
-<img src="https://i.gifer.com/4yD.gif" width=480 height=264.490 alt="Matrix"/>
+<img src="https://i.gifer.com/4yD.gif" width="480" height="264" alt="Matrix"/>
 
 ## 👶 About Me:
 
