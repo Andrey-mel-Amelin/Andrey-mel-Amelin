@@ -15,6 +15,7 @@
 
 <img src="https://img.icons8.com/color/48/null/react-native.png" height="30" alt="React"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png" height="30" alt="JavaScript"/>&nbsp;
+<img src="https://img.icons8.com/color/48/null/redux.png" height="30" alt="Redux"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/html-5--v1.png" height="30" alt="Html"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/css3.png" height="30" alt="CSS"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/sass.png" height="30" alt="SASS"/>&nbsp;
@@ -25,7 +26,6 @@
 ## 📚 I’m currently learning:
 
 <img src="https://img.icons8.com/fluency/48/null/typescript--v2.png" height="30" alt="TypeScript"/>&nbsp;
-<img src="https://img.icons8.com/color/48/null/redux.png" height="30" alt="Redux"/>&nbsp;
 <br>
 
 ## 📬 How to contact Me:
