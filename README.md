@@ -31,4 +31,6 @@
 
 ## 📬 How to contact Me:
 
-<img src="https://img.icons8.com/color/48/null/telegram-app--v1.png" height="30" alt="Telegram"><a href="https://t.me/mel_svk"></a></img>
+<a href="https://t.me/mel_svk">
+  <img src="https://img.icons8.com/color/48/null/telegram-app--v1.png" height="30" alt="Telegram"/>
+</a>
