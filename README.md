@@ -8,7 +8,7 @@
 <img src="https://img.icons8.com/fluency/48/null/typescript--v2.png" height="30" alt="TypeScript"/>&nbsp;
 <img src="https://img.icons8.com/color/48/nextjs.png" height="30" alt="nextjs"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/react-native.png" height="30" alt="React"/>&nbsp;
-<img src="https://img.icons8.com/color/48/nestjs.png"  alt="nestjs"/>&nbsp;
+<img src="https://img.icons8.com/color/48/nestjs.png" height="30" alt="nestjs"/>&nbsp;
 <img src="https://img.icons8.com/fluency/48/null/node-js.png" height="30" alt="NodeJS"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/redux.png" height="30" alt="Redux"/>&nbsp;
 <img src="https://img.icons8.com/color/48/null/html-5--v1.png" height="30" alt="Html"/>&nbsp;
